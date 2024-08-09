@@ -4,3 +4,5 @@ jenkins
 ansible
 maven
 nexus
+dcker
+kubernetes.
